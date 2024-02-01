@@ -9,6 +9,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_itel-A662L.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_itel-A662L-user \
-    omni_itel-A662L-userdebug \
     omni_itel-A662L-eng
