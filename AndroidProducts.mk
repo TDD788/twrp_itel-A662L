@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_itel-A662L.mk
+    $(device/itel/itel-A662L)/omni_itel-A662L.mk
 
 COMMON_LUNCH_CHOICES := \
     omni_itel-A662L-eng
